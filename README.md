@@ -22,7 +22,7 @@ Model evaluation:
 
 Libraries used:
 
-1.Pandas
-2.Sklearn
-3.Imblearn
+1. Pandas
+2. Sklearn
+3. Imblearn
 
