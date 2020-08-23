@@ -8,7 +8,7 @@ Supervised machine learning classification
 2. Undersample the data using the `Cluster Centroids` algorithm.
 3. Over- and under-sample using a combination `SMOTEENN` algorithm.
 
-Classification Algorythms:
+Classification Algorithms:
 
 1. Logistic Regression : `logistic regression classifier` from `sklearn.linear_model` 
 2. Random Forrest Classifier : `RandomForestClassifier` from `sklearn.ensemble`  
