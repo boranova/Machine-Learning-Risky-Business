@@ -20,3 +20,9 @@ Model evaluation:
 2. `confusion matrix` from `sklearn.metrics`.
 3. `imbalanced classification report` from `imblearn.metrics`.
 
+Libraries used:
+
+1.Pandas
+2.Sklearn
+3.Imblearn
+
